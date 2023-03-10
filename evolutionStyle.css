@@ -1,0 +1,14 @@
+body {
+  background: #2E706C;
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  padding-bottom: 6rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+}
+
+#head {
+	color: white;
+}
